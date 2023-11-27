@@ -1,2 +1,2 @@
 # David-Theriault.github.io
-early edition of my personal website using bootcamp and HTML, CSS
+this is an early edition of my personal website using bootstrap (the world’s most popular framework for building responsive, mobile-first sites) coding in HTML and CSS.
